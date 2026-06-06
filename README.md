@@ -2,6 +2,15 @@
 
 Machine Learning Capstone Project developed as part of the **IBM Machine Learning Professional Certificate (2025)**.
 
+
+![IBM Capstone Project](https://img.shields.io/badge/IBM-Capstone%20Project-1261FE?logo=ibm)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation-System-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)
+
 ## Project Overview
 
 This project focuses on the design and evaluation of recommendation systems for a Massive Open Online Courses (MOOC) platform. The objective is to help learners discover relevant courses based on their interests, enrollment history, and course content.
